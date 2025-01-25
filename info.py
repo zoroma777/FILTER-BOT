@@ -114,7 +114,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
 VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'modijiurl.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '35840a51e5e3ed3e1c8cbe4fb194c7b9db18c3c8')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '30af9d4c8e03dba7c2d461708291ae3f8d38fe30')
 VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/Lust_tutorial')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
